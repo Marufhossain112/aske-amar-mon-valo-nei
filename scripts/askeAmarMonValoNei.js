@@ -10,7 +10,7 @@ let getBtn = document.getElementById("click-btn");
 getBtn.addEventListener("click", function () {
   // clickMe();
   // let showTxt = getBtn.innerText;
-  for (let i = 1; i <= 9999; i++) {
+  for (let i = 1; i <= 9999999999; i++) {
     // showTxt = "aske amar mon valo nei";
     // console.log(showTxt);
     let createBtn = document.createElement("button");
