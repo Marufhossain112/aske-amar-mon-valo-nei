@@ -1,0 +1,10 @@
+.btn-info {
+  padding: 20px 53px;
+  border-radius: 11px;
+  color: white;
+  font-weight: 700;
+  -webkit-border-radius: 11px;
+  -moz-border-radius: 11px;
+  -ms-border-radius: 11px;
+  -o-border-radius: 11px;
+}
